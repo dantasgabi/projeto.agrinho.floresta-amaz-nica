@@ -1,6 +1,5 @@
 # Floresta amazônica
-Este projeto é uma página web informativa sobre os impactos do desmatamento no meio ambiente e na qualidade de vida das pessoas. Através de uma abordagem visual e clara, o conteúdo é dividido em seções que explicam os problemas causados pela destruição das florestas, suas consequências e as ações necessárias para mitigar seus efeitos.
-
+Este projeto é uma página web informativa sobre A FLORESTA AMAZONICA
 ### Estrutura do Projeto
 Tecnologias Utilizadas:
 HTML: Estrutura principal da página.
@@ -32,9 +31,8 @@ Lista das consequências diretas do desmatamento, como:
 
 #### Conclusão:
 
-Reflexão final sobre a necessidade de ações para combater o desmatamento, incluindo preservação ambiental, reflorestamento e práticas sustentáveis.
+A floresta amazônica, a maior floresta tropical do mundo, é um ecossistema de extrema importância para o planeta, abrigando uma imensa biodiversidade, regulando o clima e fornecendo recursos vitais.
 
-#### Rodapé (Footer):
 
 Link para a página do LinkedIn do autor, incentivando a ação: "Faça parte dessa causa!".
 
